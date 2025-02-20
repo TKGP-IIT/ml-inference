@@ -5,3 +5,8 @@ torchvision
 numpy
 pandas
 pydantic
+transformers
+evaluate
+accelerate
+huggingface_hub
+dotenv
